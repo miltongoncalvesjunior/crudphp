@@ -5,7 +5,7 @@ CREATE TABLE customers (id int(11) NOT NULL,name varchar(255) NOT NULL,cpf_cnpj 
 
 show tables;
 
-describe customers;
+describe customers;,,,
 
 
 
